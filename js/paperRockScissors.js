@@ -1,10 +1,4 @@
-/*
-    N220 
-    Hieu Nguyen
-    Week 14 assignment
-    Rock paper scissors 
 
-*/
 
 //create function main
 function main(){
